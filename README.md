@@ -4,12 +4,18 @@ Transformando o Futuro das empresas com Tecnologia de Ponta! 💼💡
 
 Somos especialistas em transformar pequenas e médias empresas, oferecendo soluções tecnológicas personalizadas que ajudam nossos clientes a se destacarem em um mercado altamente competitivo.
 
-O Que Fazemos
+# O Que Fazemos
+
 🔧 Consultoria em Transformação Digital
+
 💻 Desenvolvimento de Software Sob Medida
+
 🔗 Automação de Processos
+
 📊 Análise de Dados e Business Intelligence (BI)
+
 📱 UX/UI Design e Serviços de Design
+
 🎓 Treinamento e Capacitação
 
 # Nossos Valores
