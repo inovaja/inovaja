@@ -29,14 +29,18 @@ Empoderar empresas a se tornarem líderes em seus segmentos, promovendo eficiên
 
 <div align="center"> <img src="https://user-images.githubusercontent.com/icons/animated-chart.gif" alt="Data Analytics" width="400px"> </div>
 # Público-Alvo
+
 Pequenas e médias empresas que buscam modernizar, automatizar operações e aumentar sua competitividade.
 
 # Impacto Desejado
+
 Contribuir para o sucesso e crescimento de empresas de diversos setores, ajudando-as a se destacar no mercado.
 
 <div align="center"> <img src="https://user-images.githubusercontent.com/icons/innovation-animation.gif" alt="Innovation" width="400px"> </div>
 # Entre em Contato Conosco!
+
 📧 alison.sassi.consultoria@gmail.com
+
 🌐
 
 # “Inovação contínua com inteligência para potencializar seu negócio!”
