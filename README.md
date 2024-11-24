@@ -47,6 +47,6 @@ Contribuir para o sucesso e crescimento de empresas de diversos setores, ajudand
 
 📧 alison.sassi.consultoria@gmail.com
 
-🌐
+🌐 https://linktr.ee/InovaJA
 
 # “Inovação contínua com inteligência para potencializar seu negócio!”
